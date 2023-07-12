@@ -24,5 +24,6 @@ dvc repro
 
 ```
 dvc dag
+## direct acyclic graph
 ```
 
