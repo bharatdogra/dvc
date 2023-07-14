@@ -27,3 +27,18 @@ dvc dag
 ## direct acyclic graph
 ```
 
+'''
+dvc add <file name>
+'''
+
+'''
+git add <file names> && git commit -m 'files added successfully"
+'''
+
+'''
+dvc remote add myremote <any remote location>
+'''
+
+'''
+dvc push
+'''
